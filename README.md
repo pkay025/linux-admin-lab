@@ -21,7 +21,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 01 | Linux Basics | Completed |
 | 02 | User & Permission Management | Completed |
 | 03 | File Permissions | Completed |
-| 04 | Process Management | Coming Soon |
+| 04 | Process Management | Completed |
 | 05 | Package Management | Coming Soon |
 | 06 | System Monitoring | Coming Soon |
 | 07 | Networking Fundamentals | Coming Soon |
