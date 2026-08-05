@@ -33,7 +33,7 @@ Created the following files:
 
 Used:
 
-```fish
+```Bash
 ls -l
 ```
 
