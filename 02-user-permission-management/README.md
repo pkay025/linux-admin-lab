@@ -69,7 +69,7 @@ Created a practice file and changed its ownership to:
 using:
 
 ```bash
-sudo chown alice:sysadmins server-config.txt
+sudo chown Emmanuel:sysadmins server-config.txt
 ```
 
 ### 4. File Permissions
