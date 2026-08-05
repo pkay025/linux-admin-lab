@@ -11,7 +11,7 @@ A Linux server becomes slow because one application is consuming excessive syste
 ## Environment
 
 - Operating System: Ubuntu Linux
-- Shell: Fish
+- Shell: Bash/Fish
 - Version Control: Git and GitHub
 
 ## Commands Practiced
@@ -31,7 +31,7 @@ A Linux server becomes slow because one application is consuming excessive syste
 
 Used:
 
-```fish
+```bash
 ps
 ps aux | head -20
 ```
@@ -42,7 +42,7 @@ to examine running processes and understand process information such as PID, CPU
 
 Used:
 
-```fish
+```bash
 top
 ```
 
@@ -52,7 +52,7 @@ to observe system activity and running processes in real time.
 
 Executed:
 
-```fish
+```bash
 sleep 300 &
 ```
 
@@ -62,7 +62,7 @@ to start a background process for testing.
 
 Used:
 
-```fish
+```bash
 pgrep sleep
 ```
 
@@ -72,7 +72,7 @@ to identify the Process ID (PID) of the background process.
 
 Stopped the process using:
 
-```fish
+```bash
 kill <PID>
 ```
 
