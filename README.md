@@ -23,7 +23,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 03 | File Permissions | Completed |
 | 04 | Process Management | Completed |
 | 05 | Package Management | Completed |
-| 06 | System Monitoring | Coming Soon |
+| 06 | System Monitoring | Completed |
 | 07 | Networking Fundamentals | Coming Soon |
 | 08 | Shell Scripting | Coming Soon |
 | 09 | Cron Jobs & Automation | Coming Soon |
