@@ -11,7 +11,7 @@ A user reports that they cannot access a company application server. As a Linux 
 ## Environment
 
 - Operating System: Ubuntu Linux
-- Shell: Fish
+- Shell: Bash/Fish
 - Version Control: Git and GitHub
 
 ## Commands Practiced
