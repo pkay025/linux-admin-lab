@@ -33,7 +33,7 @@ Created two practice users:
 
 Verified their creation using:
 
-```fish
+```bash
 cat /etc/passwd | tail
 ```
 
@@ -47,14 +47,14 @@ sysadmins
 
 Added both users to the group using:
 
-```fish
+```bash
 sudo usermod -aG sysadmins Emmanuel
 sudo usermod -aG sysadmins Nunoo
 ```
 
 Verified group membership using:
 
-```fish
+```bash
 groups Emmanuel
 groups Nunoo
 ```
@@ -68,7 +68,7 @@ Created a practice file and changed its ownership to:
 
 using:
 
-```fish
+```bash
 sudo chown alice:sysadmins server-config.txt
 ```
 
