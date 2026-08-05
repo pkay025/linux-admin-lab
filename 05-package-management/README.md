@@ -30,7 +30,7 @@ As a Linux System Administrator, users often request new software installations 
 
 ### 1. Updated Package Lists
 
-```fish
+```bash
 sudo apt update
 ```
 
@@ -38,7 +38,7 @@ Downloaded the latest package information from Ubuntu repositories.
 
 ### 2. Checked for Available Updates
 
-```fish
+```bash
 apt list --upgradable
 ```
 
@@ -46,7 +46,7 @@ Displayed packages that could be upgraded.
 
 ### 3. Searched for a Package
 
-```fish
+```bash
 apt search htop
 ```
 
@@ -54,7 +54,7 @@ Located the `htop` package in the Ubuntu repositories.
 
 ### 4. Viewed Package Details
 
-```fish
+```bash
 apt show htop
 ```
 
@@ -62,7 +62,7 @@ Displayed version, maintainer, dependencies, and package description.
 
 ### 5. Installed the Package
 
-```fish
+```bash
 sudo apt install htop
 ```
 
@@ -70,7 +70,7 @@ Installed the `htop` system monitoring utility.
 
 ### 6. Verified Installation
 
-```fish
+```bash
 apt list --installed | grep htop
 ```
 
@@ -78,7 +78,7 @@ Confirmed that `htop` had been installed successfully.
 
 ### 7. Removed the Package
 
-```fish
+```bash
 sudo apt remove htop
 ```
 
