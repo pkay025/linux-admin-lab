@@ -11,7 +11,7 @@ A company reports that one of its Linux servers is becoming slow. As a system ad
 ## Environment
 
 - Operating System: Ubuntu Linux
-- Shell: Fish
+- Shell: Bash/Fish
 - Version Control: Git and GitHub
 
 ## Commands Practiced
@@ -34,7 +34,7 @@ A company reports that one of its Linux servers is becoming slow. As a system ad
 
 Command:
 
-```fish
+```bash
 uptime
 ```
 
@@ -44,7 +44,7 @@ Used to view how long the system has been running and check system load averages
 
 Command:
 
-```fish
+```bash
 free -h
 ```
 
@@ -54,7 +54,7 @@ The `-h` option displays memory values in a human-readable format such as MB and
 
 Command:
 
-```fish
+```bash
 df -h
 ```
 
@@ -64,7 +64,7 @@ Used to check available and used disk space.
 
 Commands:
 
-```fish
+```bash
 whoami
 id
 ```
@@ -75,7 +75,7 @@ Used to identify logged-in users and display account information.
 
 Command:
 
-```fish
+```bash
 lscpu
 ```
 
@@ -85,7 +85,7 @@ Used to view processor architecture, cores, threads, and CPU details.
 
 Command:
 
-```fish
+```bash
 top
 ```
 
@@ -95,7 +95,7 @@ Used for real-time monitoring of CPU, memory, and running processes.
 
 Command:
 
-```fish
+```bash
 du -h --max-depth=1
 ```
 
