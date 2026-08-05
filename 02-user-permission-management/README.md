@@ -7,7 +7,7 @@ The objective of this lab was to learn how to create Linux users, manage groups,
 ## Environment
 
 - Operating System: Ubuntu Linux
-- Shell: Fish
+- Shell: Bash/Fish
 - Version Control: Git and GitHub
 
 ## Commands Practiced
