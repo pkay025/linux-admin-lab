@@ -11,7 +11,7 @@ A company server sends an alert that disk space is running low. As a Linux admin
 ## Environment
 
 - Operating System: Ubuntu Linux
-- Shell: bash/Fish
+- Shell: Bash/Fish
 - Version Control: Git and GitHub
 
 ## Commands Practiced
