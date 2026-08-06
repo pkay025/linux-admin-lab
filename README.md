@@ -31,13 +31,18 @@ The goal of this repository is to build practical Linux system administration sk
 
 ## Repository Structure
 
-```text
+```
 linux-admin-lab/
 ├── README.md
 ├── 01-linux-basics/
 ├── 02-user-permission-management/
 ├── 03-file-permissions/
-└── ...
+├── 04-process-management/
+├── 05-package-management/
+├── 06-system-monitoring/
+├── 07-linux-networking/
+└── 08-disk-storage-management/
+
 ```
 
 ## Skills Demonstrated
