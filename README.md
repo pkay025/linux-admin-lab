@@ -25,7 +25,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 05 | Package Management | Completed |
 | 06 | System Monitoring | Completed |
 | 07 | Networking Fundamentals | Completed |
-| 08 | Shell Scripting | Coming Soon |
+| 08 | Shell Scripting | Completed |
 | 09 | Cron Jobs & Automation | Coming Soon |
 | 10 | Backup & Restore | Coming Soon |
 
