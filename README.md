@@ -119,5 +119,3 @@ The following topics will be added as I continue expanding this portfolio:
 ## Author
 
 **Emmanuel Nunoo Mensah**
-
-GitHub: https://github.com/pkay025
