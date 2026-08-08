@@ -32,7 +32,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 08 | Disk & Storage Management | Completed |
 | 09 | User Management & Security Administration | Completed |
 | 10 | Shell Scripting | Completed |
-| 11 | Cron Jobs & Automation | Coming Soon |
+| 11 | Cron Jobs & Automation | Completed |
 | 12 | Backup & Restore | Coming Soon |
 
 ---
