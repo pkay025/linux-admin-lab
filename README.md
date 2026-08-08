@@ -31,7 +31,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 07 | Linux Networking | Completed |
 | 08 | Disk & Storage Management | Completed |
 | 09 | User Management & Security Administration | Completed |
-| 10 | Shell Scripting | Coming Soon |
+| 10 | Shell Scripting | Completed |
 | 11 | Cron Jobs & Automation | Coming Soon |
 | 12 | Backup & Restore | Coming Soon |
 
