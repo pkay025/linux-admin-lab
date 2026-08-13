@@ -36,6 +36,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 12 | Backup & Restore | Completed |
 | 13 | Service Management | Completed |
 | 14 | SSH & Remote Administration | Completed |
+| 15 | Log Management & Troubleshooting | Completed |
 
 ---
 
@@ -57,7 +58,9 @@ linux-admin-lab/
 ├── 11-cron-jobs-automation/
 ├── 12-backup-and-restore/
 ├── 13-service-management/
-└── 14-ssh-remote-administration/
+├── 14-ssh-remote-administration/
+└── 15-log-management-troubleshooting/
+
 ```
 
 ---
