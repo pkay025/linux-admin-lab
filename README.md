@@ -37,12 +37,13 @@ The goal of this repository is to build practical Linux system administration sk
 | 13 | Service Management | Completed |
 | 14 | SSH & Remote Administration | Completed |
 | 15 | Log Management & Troubleshooting | Completed |
-
+| 16 | System Performance Monitoring | Completed |
 ---
 
 ## Repository Structure
 
 ```text
+
 linux-admin-lab/
 ├── README.md
 ├── 01-linux-basics/
@@ -59,10 +60,10 @@ linux-admin-lab/
 ├── 12-backup-and-restore/
 ├── 13-service-management/
 ├── 14-ssh-remote-administration/
-└── 15-log-management-troubleshooting/
+├── 15-log-management-troubleshooting/
+└── 16-system-performance-monitoring/
 
 ```
-
 ---
 
 ## Skills Demonstrated
@@ -94,7 +95,6 @@ Each lab follows a structured format:
 4. Commands Practiced
 5. Tasks Completed
 6. Screenshots
-7. Lessons Learned
 
 This approach ensures both theoretical understanding and practical hands-on experience.
 
