@@ -39,6 +39,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 15 | Log Management & Troubleshooting | Completed |
 | 16 | System Performance Monitoring | Completed |
 | 17 | Linux Firewall Management | Completed |
+| 18 | Linux Security Auditing | Completed |
 
 ---
 
@@ -64,7 +65,8 @@ linux-admin-lab/
 ├── 14-ssh-remote-administration/
 ├── 15-log-management-troubleshooting/
 ├── 16-system-performance-monitoring/
-└── 17-linux-firewall-management/
+├── 17-linux-firewall-management/
+└── 18-linux-security-auditing/
 
 ```
 ---
