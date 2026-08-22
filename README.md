@@ -41,6 +41,7 @@ The goal of this repository is to build practical Linux system administration sk
 | 17 | Linux Firewall Management | Completed |
 | 18 | Linux Security Auditing | Completed |
 | 19 | Linux-Networking | Completed |
+| 20 | SSH & Remote Administration | Completed |
 
 
 ---
