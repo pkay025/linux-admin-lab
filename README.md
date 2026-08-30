@@ -1,10 +1,10 @@
-# Linux System Administration Portfolio
+# Linux System Administration
 
 Welcome to my **Linux System Administration Portfolio**. This repository documents my hands-on journey in learning Linux system administration through practical labs, real-world scenarios, and technical documentation.
 
 ## Objective
 
-The goal of this repository is to build practical Linux system administration skills by completing structured, hands-on labs that simulate real-world administrative tasks. Each lab includes objectives, scenarios, commands practiced, and screenshots.
+The goal is to build practical Linux system administration skills by completing structured, hands-on labs that simulate real-world administrative tasks. Each lab includes objectives, scenarios, commands practiced, and screenshots.
 
 ---
 
