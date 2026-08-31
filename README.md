@@ -42,7 +42,7 @@ The goal is to build practical Linux system administration skills by completing 
 | 18 | Linux Security Auditing | Completed |
 | 19 | Linux-Networking | Completed |
 | 20 | SSH & Remote Administration | Completed |
-| 21 | Linux Processes System Monitoring | Completed |
+| 21 | Linux Processes System Monitoring | Coming soon |
 
 
 ---
