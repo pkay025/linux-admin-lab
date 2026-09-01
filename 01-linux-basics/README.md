@@ -7,7 +7,7 @@ The objective of this lab was to understand basic Linux navigation commands and 
 ## Environment
 
 - Operating System: Ubuntu Linux
-- Shell: Fish
+- Shell: Bash/Fish
 - Version Control: Git and GitHub
 
 ## Commands Practiced
