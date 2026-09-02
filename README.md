@@ -37,7 +37,7 @@ The goal is to build practical Linux system administration skills by completing 
 | 13 | Service Management | Completed |
 | 14 | SSH & Remote Administration | Completed |
 | 15 | Log Management & Troubleshooting | Completed |
-| 16 | System Performance & Monitoring | Completed |
+| 16 | System Monitoring & Performance | Completed |
 | 17 | Linux Firewall Management | Completed |
 | 18 | Linux Security Auditing | Completed |
 | 19 | Linux-Networking | Completed |
@@ -68,7 +68,7 @@ linux-admin-lab/
 ├── 13-service-management/
 ├── 14-ssh-remote-administration/
 ├── 15-log-management-and-troubleshooting/
-├── 16-system-performance-and-monitoring/
+├── 16-system-monitoring-and-performance/
 ├── 17-linux-firewall-management/
 ├── 18-linux-security-auditing/
 ├── 19-linux-networking/
