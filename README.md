@@ -67,13 +67,13 @@ linux-admin-lab/
 ├── 12-backup-and-restore/
 ├── 13-service-management/
 ├── 14-ssh-remote-administration/
-├── 15-log-management-and-troubleshooting/
-├── 16-system-monitoring-and-performance/
+├── 15-log-management-troubleshooting/
+├── 16-system-monitoring-performance/
 ├── 17-linux-firewall-management/
 ├── 18-linux-security-auditing/
 ├── 19-linux-networking/
 ├── 20-ssh-remote-administration/
-├── 21-linux-processes-and-system-monitoring/
+├── 21-linux-processes-system-monitoring/
 ├── 22-systemd-services/
 ├── 23-linux-logs-troubleshooting/
 ├── 24-bash-scripting/
