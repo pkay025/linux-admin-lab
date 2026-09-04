@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this lab was to learn how to manage software packages in Ubuntu using the APT package manager. This included updating package repositories, searching for packages, installing software, verifying installations, and removing packages.
+The objective of this lab was to learn how to manage software packages in Ubuntu Linux using the APT package manager. This included updating package repositories, searching for packages, installing software, verifying installations, and removing packages.
 
 ## Real-World Scenario
 
