@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this lab was to understand Linux file permissions, ownership, and access control using both numeric and symbolic permission modes.
+The objective of this lab was to understand file permissions, ownership, and access control using both numeric and symbolic permission modes in linux.
 
 ## Environment
 
