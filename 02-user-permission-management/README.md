@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this lab was to learn how to create Linux users, manage groups, assign users to groups, and control file ownership and permissions.
+The objective of this lab was to learn how to create users, manage groups, assign users to groups, and control file ownership and permissions.
 
 ## Environment
 
