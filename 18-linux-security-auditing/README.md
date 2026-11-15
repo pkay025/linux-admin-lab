@@ -6,7 +6,7 @@ The objective of this lab was to learn how Linux administrators perform basic se
 
 ## Real-World Scenario
 
-A Linux server needs to be reviewed for potential security weaknesses. As a Linux administrator, you need to audit user accounts, privileged access, sensitive files, listening services, special permissions, SSH settings, and password policies to identify areas that may require attention.
+A linux server needs to be reviewed for potential security weaknesses. As a Linux administrator, you need to audit user accounts, privileged access, sensitive files, listening services, special permissions, SSH settings, and password policies to identify areas that may require attention.
 
 ## Environment
 
